@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Marya.N.P</string>
+    <string name="nama">NAMA</string>
+    <string name="jabatan">JABATAN</string>
+    <string name="departemen">DEPARTEMENT</string>
+    <string name="jenis_kelamin">JENIS KELAMIN</string>
+    <string name="tgl_lahir">TANGGAL LAHIR</string>
+    <string name="tmpt_lahir">TEMPAT LAHIR</string>
+    <string name="alamat">ALAMAT</string>
+    <string name="l_atau_p">L Atau P</string>
+    <string name="buat_biodata_baru">Buat Biodata Baru</string>
+
+
+</resources>
